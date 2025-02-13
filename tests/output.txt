@@ -1,0 +1,34 @@
+While Loop Output:
+Count: 1
+Count: 2
+Count: 3
+Count: 4
+Count: 5
+
+Do-While Loop Output:
+Count: 1
+Count: 2
+Count: 3
+Count: 4
+Count: 5
+
+For Loop Output (Even Numbers):
+Even: 2
+Even: 4
+Even: 6
+Even: 8
+Even: 10
+
+Nested Loops Output (3x3 Grid):
+* * *
+* * *
+* * *
+
+Loop with Break and Continue:
+Number: 1
+Number: 2
+Number: 3
+Number: 4
+Number: 5
+Number: 6
+Number: 8
